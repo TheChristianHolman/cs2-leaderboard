@@ -1,0 +1,19 @@
+{
+  "name": "cs2-leaderboard",
+  "version": "1.0.0",
+  "description": "A Node.js app for aggregating CS2 game results and building a leaderboard.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.21.2",
+    "vdf": "^0.0.2"
+  }
+}

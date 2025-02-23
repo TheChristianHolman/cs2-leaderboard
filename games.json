@@ -1,0 +1,172 @@
+[
+  {
+    "startTime": "2025-02-23T08:20:06.000Z",
+    "endTime": "2025-02-23T08:27:07.000Z",
+    "duration": "00:07:01",
+    "map": "de_nuke",
+    "finalScore": {
+      "team1": 15,
+      "team2": 11
+    },
+    "players": {
+      "team1": [
+        {
+          "name": "MrSteppa",
+          "kills": 13,
+          "deaths": 15
+        },
+        {
+          "name": "DuckTM",
+          "kills": 21,
+          "deaths": 13
+        }
+      ],
+      "team2": [
+        {
+          "name": "thesnaker",
+          "kills": 18,
+          "deaths": 17
+        },
+        {
+          "name": "lunacitris",
+          "kills": 10,
+          "deaths": 17
+        }
+      ]
+    },
+    "winner": [
+      "MrSteppa",
+      "DuckTM"
+    ],
+    "loser": [
+      "thesnaker",
+      "lunacitris"
+    ]
+  },
+  {
+    "startTime": "2025-02-23T09:53:38.000Z",
+    "endTime": "2025-02-23T09:54:50.000Z",
+    "duration": "00:01:12",
+    "map": "de_inferno",
+    "finalScore": {
+      "team1": 7,
+      "team2": 9
+    },
+    "players": {
+      "team1": [
+        {
+          "name": "WooZy",
+          "kills": 7,
+          "deaths": 12
+        },
+        {
+          "name": "DeltaSquad",
+          "kills": 13,
+          "deaths": 10
+        }
+      ],
+      "team2": [
+        {
+          "name": "thesnaker",
+          "kills": 16,
+          "deaths": 11
+        },
+        {
+          "name": "lunacitris",
+          "kills": 6,
+          "deaths": 9
+        }
+      ]
+    },
+    "winner": [
+      "thesnaker",
+      "lunacitris"
+    ],
+    "loser": [
+      "WooZy",
+      "DeltaSquad"
+    ]
+  },
+  {
+    "startTime": "2025-02-23T09:58:05.000Z",
+    "endTime": "2025-02-23T10:04:06.000Z",
+    "duration": "00:06:01",
+    "map": "de_nuke",
+    "finalScore": {
+      "team1": 4,
+      "team2": 9
+    },
+    "players": {
+      "team1": [
+        {
+          "name": "WooZy",
+          "kills": 6,
+          "deaths": 11
+        },
+        {
+          "name": "DeltaSquad",
+          "kills": 5,
+          "deaths": 10
+        }
+      ],
+      "team2": [
+        {
+          "name": "thesnaker",
+          "kills": 14,
+          "deaths": 6
+        },
+        {
+          "name": "lunacitris",
+          "kills": 7,
+          "deaths": 6
+        }
+      ]
+    },
+    "winner": [
+      "thesnaker",
+      "lunacitris"
+    ],
+    "loser": [
+      "WooZy",
+      "DeltaSquad"
+    ]
+  },
+  {
+    "startTime": "2025-02-23T10:08:20.000Z",
+    "endTime": "2025-02-23T10:11:54.000Z",
+    "duration": "00:03:34",
+    "map": "de_vertigo",
+    "finalScore": {
+      "team1": 3,
+      "team2": 0
+    },
+    "players": {
+      "team1": [
+        {
+          "name": "Ghostmaker001",
+          "kills": 0,
+          "deaths": 0
+        },
+        {
+          "name": "lunacitris",
+          "kills": 0,
+          "deaths": 0
+        }
+      ],
+      "team2": [
+        {
+          "name": "thesnaker",
+          "kills": 0,
+          "deaths": 0
+        }
+      ]
+    },
+    "winner": [
+      "Ghostmaker001",
+      "lunacitris"
+    ],
+    "loser": [
+      "thesnaker"
+    ]
+  }
+]
