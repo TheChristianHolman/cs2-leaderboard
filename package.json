@@ -7,12 +7,12 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Your Name",
+  "author": "Ghostmaker001",
   "license": "ISC",
   "dependencies": {
     "basic-ftp": "^5.0.5",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "vdf": "^0.0.2"
   }
